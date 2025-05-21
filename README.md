@@ -275,5 +275,6 @@
       popup.classList.add('show'); setTimeout(() => { popup.classList.remove('show'); if(ok){ currentIndex = (currentIndex+1)%animals.length; loadAnimal(currentIndex);} },1200);
     }
   </script>
+  <script type='text/javascript' src='//pl26698604.profitableratecpm.com/eb/c9/39/ebc93986a9fe1893cac1346619d7e77a.js'></script>
 </body>
 </html>
