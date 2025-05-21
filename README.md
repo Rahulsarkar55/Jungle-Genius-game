@@ -1,5 +1,6 @@
 <!DOCTYPE html><html lang="en">
 <head>
+  <script type='text/javascript' src='//pl26698582.profitableratecpm.com/f4/6c/05/f46c05f4b2c7a00bb2020d91aba423be.js'></script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Animal Small World</title>
